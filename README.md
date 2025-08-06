@@ -1,10 +1,17 @@
-# philippine-holidays-json
-basic json file for holidays. feel free to update.
+# Philippine Holidays JSON
 
-# usage: easy api no need web scraping
+This repository contains a simple JSON list of official Philippine holidays.
 
-# ex js:
+You can access the raw JSON file directly via:
 
+https://raw.githubusercontent.com/estelsnt/philippine-holidays-json/main/holidays.json
+
+
+## How to Fetch in Browser
+
+Here's a basic example of how to fetch and use the data in plain JavaScript (browser):
+
+```html
 <script>
   fetch('https://raw.githubusercontent.com/estelsnt/philippine-holidays-json/main/holidays.json')
     .then(response => {
@@ -20,6 +27,3 @@ basic json file for holidays. feel free to update.
       console.error('Error fetching holiday data:', error);
     });
 </script>
-
-
-
