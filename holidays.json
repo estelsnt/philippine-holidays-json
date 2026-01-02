@@ -1,10 +1,10 @@
 [
   { "date": "01-01-2025", "event": "New Year’s Day", "type": "regular" },
   { "date": "04-09-2025", "event": "Araw ng Kagitingan", "type": "regular" },
-  { "date": "04-17-2025", "event": "Maundy Thursday", "type": "regular" },
+  { "date": "04-02-2025", "event": "Maundy Thursday", "type": "regular" },
   { "date": "05-01-2025", "event": "Labor Day", "type": "regular" },
   { "date": "06-12-2025", "event": "Independence Day", "type": "regular" },
-  { "date": "08-25-2025", "event": "National Heroes Day", "type": "regular" },
+  { "date": "08-31-2025", "event": "National Heroes Day", "type": "regular" },
   { "date": "11-30-2025", "event": "Bonifacio Day", "type": "regular" },
   { "date": "12-25-2025", "event": "Christmas Day", "type": "regular" },
   { "date": "12-30-2025", "event": "Rizal Day", "type": "regular" },
@@ -13,8 +13,8 @@
   { "date": "11-01-2025", "event": "All Saints’ Day", "type": "special non-working" },
   { "date": "12-08-2025", "event": "Feast of the Immaculate Conception of Mary", "type": "special non-working" },
   { "date": "12-31-2025", "event": "Last Day of the Year", "type": "special non-working" },
-  { "date": "01-29-2025", "event": "Chinese New Year", "type": "special non-working" },
-  { "date": "04-19-2025", "event": "Black Saturday", "type": "special non-working" },
+  { "date": "02-17-2025", "event": "Chinese New Year", "type": "special non-working" },
+  { "date": "04-04-2025", "event": "Black Saturday", "type": "special non-working" },
   { "date": "12-24-2025", "event": "Christmas Eve", "type": "special non-working" },
-  { "date": "10-31-2025", "event": "All Saints’ Day Eve", "type": "special non-working" }
+  { "date": "11-02-2025", "event": "All souls’ Day", "type": "special non-working" }
 ]
